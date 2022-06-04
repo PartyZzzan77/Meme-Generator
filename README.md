@@ -1,9 +1,5 @@
 # Meme Generator React
-#### To use do it
-```
-git clone https://github.com/PartyZzzan77/Meme-Generator.git
-cd Meme-Generator
-npm i
-npm start
-```
-⚛️😁
+
+### This pet project is written in REACT CRA
+
+#### I want to see [click](https://partyzzzan77.github.io/Meme-Generator/)
